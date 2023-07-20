@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BestTeams.unity
     guid: 0b8e52b0660284c449db07fa183de82c
+  - enabled: 1
+    path: Assets/Scenes/AllTeams.unity
+    guid: 9817a51215ea86a49af9a1462f5024be
   m_configObjects: {}

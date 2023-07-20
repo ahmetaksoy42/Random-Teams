@@ -37,6 +37,11 @@ public class SceneManager : MonoBehaviour
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("BestTeams");
     }
+    public void LoadAllTeams()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene("AllTeams");
+    }
+    
     
    
 }
